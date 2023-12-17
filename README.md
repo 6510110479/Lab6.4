@@ -1,6 +1,4 @@
-Hello World !
-6510110274
-Papanya Siriwattanaworakul
+6510110479 Setsiri Aunsiam
 <div align="center">
   <br>
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
